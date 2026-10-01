@@ -32,6 +32,7 @@ Please choose the correct APK based on your device architecture for optimal perf
 ## فارسی (Persian)
 
 اپلیکیشن **Clubapp** یک فیلترشکن رایگان، متن‌باز (Open-Source) و بدون تبلیغات برای اندروید است که با پشتیبانی از چندین پروتکل مختلف، اتصال پایدار و پرسرعتی را برای شما فراهم می‌کند.
+
 *(Built upon core infrastructure and adapted from open-source concepts originating via [FCAE_VPN](https://github.com/FCFlenkchy/FCAE_VPN).)*
 ### 🚀 امکانات و ویژگی‌ها
 * **پروتکل‌های متنوع:** پشتیبانی از MASQUE (HTTP/3 & HTTP/2)، WireGuard، WARP-in-WARP، Tor و Psiphon.
