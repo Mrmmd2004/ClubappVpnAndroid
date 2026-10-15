@@ -1,5 +1,6 @@
 # Clubapp - Free & Open-Source Android VPN
-<img width="1080" height="979" alt="Screenshot" src="https://github.com/user-attachments/assets/82c53021-e661-4448-9c79-6846c0557ff1" />
+![Uploading 8.jpg…]()
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
