@@ -1,5 +1,5 @@
 # Clubapp - Free & Open-Source Android VPN
-<img width="1080" height="2400" alt="8" src="https://github.com/user-attachments/assets/fcc9f3db-5bfb-4f13-87f1-df3c121a9d59" />
+<img width="1280" height="1280" alt="88" src="https://github.com/user-attachments/assets/e6031016-551b-4e9a-9670-7860ba6d8d4c" />
 
 
 <p align="center">
